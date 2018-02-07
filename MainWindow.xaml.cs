@@ -27,7 +27,8 @@ namespace CoNetSo
 
         private void ButtonBase_OnClick(object sender, RoutedEventArgs e)
         {
-            
+            //https://stackoverflow.com/questions/15104923/how-to-navigate-from-a-wpf-window-to-wpf-page-in-c3-0
+            // link above is what i was looking at
         }
     }
 }
